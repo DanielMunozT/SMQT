@@ -1,4 +1,4 @@
-/* Created by daniel.munoz.trejo at “the e-mail of google that com” for MiddleMatter Inc. */
+/* Created by daniel.munoz.trejo at “the e-mail of google dot com” for MiddleMatter Inc. */
 #ifndef SMQT_H
 #define SMQT_H
 
